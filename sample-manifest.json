@@ -1,0 +1,12 @@
+{
+  "export_job_id": "133cec74-cec8-4f44-875f-ebaf5ea081c8",
+  "id_short": 844311,
+  "published_at": "2026-04-15T07:30:39Z",
+  "repo_name": "all-restaurants-in-fort-worth-texas-us-sample-844311",
+  "sample_asset_name": "beamstation_844311_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/844311/beamstation_844311_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 216,
+  "sample_sha256": "92f9bca2ff894a5418d089b9d8c9eedf99cb4c58d3336c1d920ea5dd681989e9",
+  "sample_size_bytes": 783162,
+  "total_records": 2254
+}
