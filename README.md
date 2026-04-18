@@ -9,9 +9,9 @@
 | Dataset ID | `844311` |
 | Location | Fort Worth |
 | Category | Restaurants |
-| Full dataset size | 2,254 records |
-| Free sample size | 216 records (9.58%) |
-| Last export | 2026-04-07T11:51:44.924443+00:00 |
+| Full dataset size | 2,165 records |
+| Free sample size | 216 records (9.98%) |
+| Last export | 2026-04-14T11:49:30.863774+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-worth-texas-us-sample-844311/releases/download/sample-latest/beamstation_844311_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
