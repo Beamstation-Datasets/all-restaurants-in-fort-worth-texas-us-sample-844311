@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Fort Worth, Texas with a population of over 918k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Fort Worth, Texas, US",
-  "export_job_id": "133cec74-cec8-4f44-875f-ebaf5ea081c8",
+  "export_job_id": "a5f0a124-1377-4ae4-a74c-d2bcff6ce2b9",
   "github_org": "Beamstation-Datasets",
   "id_short": 844311,
   "location_name": "Fort Worth",
   "location_type": "city",
   "repo_name": "all-restaurants-in-fort-worth-texas-us-sample-844311",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/844311/beamstation_844311_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.58,
+  "sample_pct": 9.98,
   "sample_records": 216,
   "sample_sha256": "92f9bca2ff894a5418d089b9d8c9eedf99cb4c58d3336c1d920ea5dd681989e9",
   "sample_size_bytes": 783162,
-  "total_records": 2254,
-  "updated_at": "2026-04-07T11:51:44.924443+00:00"
+  "total_records": 2165,
+  "updated_at": "2026-04-14T11:49:30.863774+00:00"
 }
