@@ -1,6 +1,6 @@
 # All Restaurants in Fort Worth, Texas, US
 
-> Free BeamStation sample export with 216 rows and masked direct-contact fields.
+> Free BeamStation sample export with 147 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `844311` |
 | Location | Fort Worth |
 | Category | Restaurants |
-| Full dataset size | 2,165 records |
-| Free sample size | 216 records (9.98%) |
-| Last export | 2026-04-14T11:49:30.863774+00:00 |
+| Full dataset size | 1,473 records |
+| Free sample size | 147 records (9.98%) |
+| Last export | 2026-04-21T12:20:10.236863+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-worth-texas-us-sample-844311/releases/download/sample-latest/beamstation_844311_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
